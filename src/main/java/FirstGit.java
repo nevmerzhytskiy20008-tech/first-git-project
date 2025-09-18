@@ -3,5 +3,7 @@ public class FirstGit {
         System.out.println("GIT");
         System.out.println("LEARMING!!");
         System.out.println("It's terribly difficult");
+        System.out.println("LEARMING!");
+        System.out.println("I'm happy");
     }
 }
